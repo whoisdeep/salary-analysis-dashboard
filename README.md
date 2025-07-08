@@ -60,8 +60,9 @@ salary-analysis-dashboard/
 ### 🏠 Salary by Remote Ratio
 ![Salary by Remote](visuals/salary_by_remote.png)
 
-### 🌍 Salary by Country
+### 🌍 Salary by Country (Top 10)
 ![Salary by Country](visuals/salary_by_country.png)
+
 
 =======
 # salary-analysis-dashboard
