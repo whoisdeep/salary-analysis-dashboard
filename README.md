@@ -57,3 +57,7 @@ salary-analysis-dashboard/
 ![Salary by Experience](visuals/salary_by_experience.png)
 
 *(Add other screenshots as needed)*
+=======
+# salary-analysis-dashboard
+A data analysis project exploring salary trends using Python and Power BI.
+
