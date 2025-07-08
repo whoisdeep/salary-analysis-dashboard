@@ -54,9 +54,15 @@ salary-analysis-dashboard/
 
 ## 📸 Visualizations
 
+### 👤 Salary by Experience Level
 ![Salary by Experience](visuals/salary_by_experience.png)
 
-*(Add other screenshots as needed)*
+### 🏠 Salary by Remote Ratio
+![Salary by Remote](visuals/salary_by_remote.png)
+
+### 🌍 Salary by Country
+![Salary by Country](visuals/salary_by_country.png)
+
 =======
 # salary-analysis-dashboard
 A data analysis project exploring salary trends using Python and Power BI.
